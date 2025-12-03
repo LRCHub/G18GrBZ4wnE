@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "卒業ですね",
+  "base_artist": "AZALEA",
+  "createdAt": "2025-12-03T10:48:57.463370Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "卒業ですね",
+      "artist": "AZALEA",
+      "has_synced": false,
+      "path": "select/pl_01_卒業ですね_AZALEA.txt"
+    }
+  ]
+}
